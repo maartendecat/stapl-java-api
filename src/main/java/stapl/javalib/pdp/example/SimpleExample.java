@@ -10,7 +10,7 @@ import static stapl.javalib.pdp.attributevalues.AttributeValueFactory.*;
 public class SimpleExample {
 
 	public static void main(String[] args) {
-		/* Java imitation of the scala test:
+		/* Java imitation of the following Scala code:
 		
 		assert(pdp.evaluate("maarten", "view", "doc123",
 	        subject.role -> List("helpdesk"),
