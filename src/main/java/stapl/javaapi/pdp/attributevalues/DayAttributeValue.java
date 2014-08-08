@@ -1,4 +1,4 @@
-package stapl.javalib.pdp.attributevalues;
+package stapl.javaapi.pdp.attributevalues;
 
 import org.joda.time.LocalDate;
 import stapl.core.Attribute;

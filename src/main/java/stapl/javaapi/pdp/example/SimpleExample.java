@@ -1,11 +1,11 @@
-package stapl.javalib.pdp.example;
+package stapl.javaapi.pdp.example;
 
 import stapl.core.AttributeContainer;
 import stapl.core.Policy;
 import stapl.core.Result;
 import stapl.core.examples.*;
-import stapl.javalib.pdp.PDP;
-import static stapl.javalib.pdp.attributevalues.AttributeValueFactory.*;
+import stapl.javaapi.pdp.PDP;
+import static stapl.javaapi.pdp.attributevalues.AttributeValueFactory.*;
 
 public class SimpleExample {
 

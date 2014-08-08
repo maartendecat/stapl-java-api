@@ -1,4 +1,4 @@
-package stapl.javalib.pdp.attributevalues;
+package stapl.javaapi.pdp.attributevalues;
 
 import stapl.core.Attribute;
 import stapl.core.ConcreteValue;

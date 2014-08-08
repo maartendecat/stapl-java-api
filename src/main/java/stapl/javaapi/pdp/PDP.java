@@ -1,4 +1,4 @@
-package stapl.javalib.pdp;
+package stapl.javaapi.pdp;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ import stapl.core.Attribute;
 import stapl.core.ConcreteValue;
 import stapl.core.Result;
 import stapl.core.pdp.AttributeFinder;
-import stapl.javalib.pdp.attributevalues.AttributeValue;
+import stapl.javaapi.pdp.attributevalues.AttributeValue;
 
 /**
  * Java wrapper for the Scala PDP class. The Scala class can be used directly

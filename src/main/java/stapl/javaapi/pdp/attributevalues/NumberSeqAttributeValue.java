@@ -1,4 +1,4 @@
-package stapl.javalib.pdp.attributevalues;
+package stapl.javaapi.pdp.attributevalues;
 
 import java.util.Arrays;
 import java.util.LinkedList;
