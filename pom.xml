@@ -10,9 +10,13 @@
   <name>stapl-java-api</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+	<properties>
+		<maven.compiler.source>1.6</maven.compiler.source>
+		<maven.compiler.target>1.6</maven.compiler.target>
+		<encoding>UTF-8</encoding>
+		<scala.tools.version>2.10</scala.tools.version>
+		<scala.version>2.10.4</scala.version>
+	</properties>
 
   <dependencies>
     <dependency>
